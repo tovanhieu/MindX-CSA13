@@ -3,8 +3,5 @@
 #### Buổi 1: https://youtu.be/owejukVfyls
 #### Buổi 2: https://youtu.be/32dhpj6gLc4
 #### Buổi 4: https://youtu.be/iMrBoOfvBIE
-<<<<<<< HEAD
-#### Buổi 7: https://youtu.be/C-qo0wFSvb0
-=======
 #### Buổi 6: https://youtu.be/1yFlqML1sYQ
->>>>>>> 0031cc3d2d2d8fbc9965c0325c02f63c316307a5
+#### Buổi 7: https://youtu.be/C-qo0wFSvb0
